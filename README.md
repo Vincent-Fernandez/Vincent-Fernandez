@@ -1,9 +1,5 @@
 <h1 align="centre">👋 Hi, I’m Vincent Fernandez</h1>
 
-<p align="center">
-  <img align="center" alt="Data Science" src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="300"/>
-</p>
-
 I'm on a journey through the world of **Data Science**, fascinated by the power of data to tell stories and drive decisions. 
 
 
@@ -17,7 +13,7 @@ Here's a bit about me:
 
 - 📫 **Reach out to me** at vincent.fernandez@proton.me if you'd like to collaborate or share insights.
 
-- ⚡ **Fun fact**: When I'm not crunching numbers or coding away, you'll find me engrossed in the latest blockbuster or indie film, drawing parallels between cinematic stories and tech innovations.
+- ⚡ **Fun fact**: You'll often find me engrossed in the latest blockbuster or indie film.
 
 
 
